@@ -154,7 +154,7 @@ body{
   background: rgba(255,255,255,0.1);
   backdrop-filter: blur(12px);
   padding:40px;
-  border-radius:20px;
+  border-radius:100px;
   cursor:pointer;
   transition:0.3s;
   border:1px solid rgba(255,255,255,0.2);
@@ -181,7 +181,7 @@ body{
   background: rgba(255,255,255,0.1);
   backdrop-filter: blur(15px);
   padding:40px;
-  border-radius:25px;
+  border-radius:100px;
   text-align:center;
   border:1px solid rgba(255,255,255,0.2);
 }
@@ -251,8 +251,8 @@ button:hover{
   position:absolute;
   top:20px;
   left:20px;
-  background-color: rgb(176, 18, 18);
+  background-color: rgb(208, 16, 16);
 }
 .back-btn:hover{
-  background:rgb(241, 87, 87);
+  background:rgb(245, 47, 47);
 }
